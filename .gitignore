@@ -17,3 +17,6 @@ dist/
 .DS_Store
 deathcount.txt
 deathcounter.exe
+deathcounter_win32.zip
+deathcounter_darwin.zip
+deathcounter_linux.zip
