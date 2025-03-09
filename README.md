@@ -47,4 +47,4 @@ Hotkeys:
 - Modify the keys on lines 54 and 55 of ``deathcounter.py`` to the keys you want and repackage the script.
 
 ### License
-This project is open source and available under the MIT License.
+This project is open source and available under the Mozilla Public License 2.0.
